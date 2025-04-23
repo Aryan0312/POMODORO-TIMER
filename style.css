@@ -1,0 +1,27 @@
+#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+body{
+    background-color: black;
+    color: rgb(245, 214, 75);
+}
+#timer{
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+}
+#cont{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    gap: 20px;
+}
+button{
+    padding: 15px;
+    background-color:rgb(245, 214, 75);
+}
